@@ -1,6 +1,6 @@
 # Hi, I'm Aarón Mas ⚡
 
-**Full Stack Developer · AI Engineer in training.**
+**💻 Full Stack Developer | 🤖 AI Engineer in Training**
 <br/>
 Building modern web applications with TypeScript, React, Node.js & Python. Passionate about AI, automation, and the future of autonomous robotics.
 
